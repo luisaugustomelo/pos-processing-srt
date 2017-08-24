@@ -19,3 +19,5 @@ connection.connect(function (err) {
 
 //2) gerar um srt com os resultados
 
+//3) resolver commits bugados
+
