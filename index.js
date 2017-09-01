@@ -1,5 +1,5 @@
 const mysql = require('mysql')
-var fs = require('fs');
+const fs = require('fs');
 
 
 //modificar a conexão
